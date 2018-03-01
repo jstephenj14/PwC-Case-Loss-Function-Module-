@@ -10,4 +10,4 @@ Code is available [here](https://github.com/jstephenj14/PwC-Case-Loss-Function-M
 
 A possible sample output is reproduced below. The tree displays segments with two numbers:(1) Loss Fraction and (2) Count of customers in the segment
 
-![](https://postimg.org/image/f2bl6haq3/)
+![](https://s17.postimg.org/dna0hr9n3/Loss_Ratio_Snip.png)
