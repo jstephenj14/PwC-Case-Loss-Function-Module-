@@ -10,4 +10,5 @@ Python code implementing this is available [here](https://github.com/jstephenj14
 
 A possible sample output based on the customer's bucketed income, marital status (M or D) and gender (M or F) is reproduced below. The tree displays segments with two numbers:(1) Loss Fraction and (2) Count of customers in the segment
 
-![](https://s17.postimg.org/dna0hr9n3/Loss_Ratio_Snip.png)
+<a href="https://drive.google.com/uc?export=view&id=1M1tDxkXjvkB3RTINHqfetK_0LrqR7dCR"><img src="https://drive.google.com/uc?export=view&id=1M1tDxkXjvkB3RTINHqfetK_0LrqR7dCR" style="width: 500px; max-width: 100%; height: auto" title="WOE Table" /></a>
+
